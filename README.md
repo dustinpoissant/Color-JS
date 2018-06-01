@@ -2,6 +2,8 @@
 
 *v1.0.0*
 
+A JavaScript Color Prototype.
+
 ## Constructors
 
 Each of the folowing constructors creates the same `Color` object.
